@@ -4,6 +4,7 @@
  ![alt text](https://github.com/jenizar/googlesheet-post-data-to-SAP/blob/master/screenshot.PNG)
  
 Note:
+
 In this scenario SAP port 8057 is opened to be accessed by Googlesheet.
  
 Youtube video:
